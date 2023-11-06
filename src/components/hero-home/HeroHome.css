@@ -1,0 +1,21 @@
+.home-hero {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: end;
+}
+
+.home-hero__text {
+  font-family: "Neue montreal bold";
+  font-size:7vw;
+  text-transform: uppercase;
+  width: 100%;
+  display: flex;
+  column-gap: 9px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  line-height: 0.9;
+}
+
+.line {
+  border-bottom: solid 7px red;
+}

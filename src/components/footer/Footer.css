@@ -1,0 +1,37 @@
+.footer {
+  padding-top: 3rem;
+}
+
+.text-big-footer {
+  font-size: 27vw;
+  font-family: "Neue montreal bold";
+  color: #d90708;
+  line-height: 0.9;
+}
+
+.social-media-footer {
+  padding-top: 2rem;
+  display: flex;
+  gap: 2rem;
+}
+
+.social-media-footer h3 {
+  font-family: "Neue montreal bold";
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+.social-media-footer p {
+  font-size: 11px;
+}
+
+.row ul {
+  display: flex;
+  flex-direction: column;
+  gap: -3px;
+}
+
+
+.row a{
+    font-size: 11px;
+}
